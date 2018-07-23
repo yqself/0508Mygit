@@ -12,3 +12,4 @@ test add
 master add
 test edit
 realtest edit
+local add 
