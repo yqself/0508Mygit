@@ -10,3 +10,4 @@ fifth add one line
 first edit
 test add
 master add
+test edit
